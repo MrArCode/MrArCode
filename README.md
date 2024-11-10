@@ -10,7 +10,7 @@
 
 ## 🧰 Tech Stack & Skills
 
-<table align="center" width="100%">
+<table align="center" width="150%">
   <tr>
     <td align="center" width="50%"><strong>🖥️ Programming Languages</strong></td>
     <td align="center" width="50%">
