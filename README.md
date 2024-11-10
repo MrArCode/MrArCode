@@ -1,8 +1,4 @@
 <div align="center" style="width: 100%;">
-  <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode.png" alt="MrArCode: Java & Kotlin Developer" style="width: 80%; border-radius: 10px;"/>
-</div>
-
-<div align="center" style="width: 100%;">
     <h1 style="color: white; font-size: 2.5em; font-weight: bold; margin: 0;">
         MrArCode - Java & Kotlin Developer
     </h1>
