@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="[https://github.com/yourusername/yourrepository/blob/main/Rysunek%20bez%20nazwy.png](https://github.com/MrArCode/MrArCode/blob/main/Rysunek%20bez%20nazwy.png)" alt="Tech Stack & Skills" width="60%">
+  <img src="https://github.com/MrArCode/MrArCode/blob/main/Rysunek%20bez%20nazwy.png" alt="Tech Stack & Skills" width="60%">
 </div>
+
 
 
 <p align="center">
