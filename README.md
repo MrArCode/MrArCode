@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode-2.png" alt="MrArCode: Java & Kotlin Developer" width="100%">
+  <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode-4.png" alt="MrArCode: Java & Kotlin Developer" width="100%">
 </div>
 
 <p align="center">
