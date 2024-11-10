@@ -6,17 +6,15 @@ Hello! I'm a **[Your Profession or Role]** with a strong passion for **[Your Int
 
 ## 🛠️ Tech Stack & Skills
 
-## 🛠️ Tech Stack & Skills
-
 <div align="center">
   <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
-
-  <!-- Build Tools (text-based placeholders) -->
-  <span style="display: inline-block; font-size: 14px; margin: 0 10px;">Maven</span>
-  <span style="display: inline-block; font-size: 14px; margin: 0 10px;">Gradle</span>
+  
+  <!-- Build Tools -->
+  <img src="https://img.icons8.com/color/48/000000/apache-maven.png" alt="Maven" title="Maven"/>
+  <img src="https://img.icons8.com/color/48/000000/gradle.png" alt="Gradle" title="Gradle"/>
 
   <!-- Version Control & Collaboration -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
