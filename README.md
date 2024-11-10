@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/tech-stack-header.png" alt="Tech Stack & Skills" width="60%">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/profile-header.png" alt="🌟 Your Name: Passionate Developer and Lifelong Learner" width="60%">
 </div>
-
 
 <p align="center">
   Hello! I'm a <strong>[Your Profession or Role]</strong> with a strong passion for <strong>[Your Interests, e.g., web development, machine learning, etc.]</strong>. I enjoy exploring new technologies and consistently strive to improve my skills.
@@ -10,14 +9,15 @@
 ---
 
 <div align="center">
-  <img src="https://your-link-to-header-image.com/tech-stack-header.png" alt="🛠️ Tech Stack & Skills" width="60%">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/tech-stack-header.png" alt="🛠️ Tech Stack & Skills" width="60%">
 </div>
 
 <div align="center">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  
+
   <!-- Build Tools -->
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  <img src="https://your-link-to-header-image.com/fun-fact-header.png" alt="⚡ Fun Fact" width="60%">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/fun-fact-header.png" alt="⚡ Fun Fact" width="60%">
 </div>
 
 <p align="center">
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://your-link-to-header-image.com/learning-development-header.png" alt="📚 Learning & Development" width="60%">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/learning-development-header.png" alt="📚 Learning & Development" width="60%">
 </div>
 
 ### 📘 Books I’ve Read
