@@ -131,17 +131,8 @@ With a strong focus on backend development, I’m driven by a passion for unders
   <a href="mailto:mr.arcode@example.com" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="Email" width="40" height="40"/>
   </a>
-  <a href="https://www.facebook.com/MrArCode" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" title="Facebook" width="40" height="40"/>
-  </a>
   <a href="https://www.linkedin.com/in/mrarcode/" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://m.me/MrArCode" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/000000/facebook-messenger.png" title="Messenger" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/mrarcode" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" title="Instagram" width="40" height="40"/>
   </a>
 </div>
 
