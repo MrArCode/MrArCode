@@ -2,14 +2,6 @@
 
 I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e.g., web development, machine learning, etc.]**. I enjoy exploring new technologies and continuously improving my skills.
 
-## 🔭 Projects
-
-### 📁 [Project Name](#)
-*A brief description of the project and its purpose. Highlight key features or technologies used.*
-
-### 📁 [Another Project](#)
-*A brief description.*
-
 ---
 
 ## 🛠️ Skills
@@ -33,26 +25,30 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 ### 📚 Books I've Read
 
 - **"Clean Code"** by Robert C. Martin  
-  *An insightful book on writing cleaner, more maintainable code.*
+  <sup>*An insightful guide to writing cleaner, more maintainable code.*</sup>
 
 - **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
-  *Guidance on becoming a better programmer and effective problem solver.*
+  <sup>*A roadmap for becoming a better programmer and effective problem solver.*</sup>
+
+---
 
 ### 🎓 Courses I've Completed
 
 - **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
-  *A foundational course covering basic concepts in computer science.*
+  <sup>*A foundational course covering fundamental concepts in computer science.*</sup>
 
 - **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
-  *An introduction to machine learning algorithms and their applications.*
+  <sup>*An introductory course on machine learning algorithms and practical applications.*</sup>
+
+---
 
 ### 🎥 Videos and Tutorials I've Watched
 
 - **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
-  *A comprehensive overview of computer science topics.*
+  <sup>*A comprehensive video series covering essential computer science topics.*</sup>
 
 - **[Python Programming Tutorials](https://www.youtube.com/user/schafer5)** by Corey Schafer  
-  *In-depth tutorials on Python and related technologies.*
+  <sup>*In-depth tutorials on Python and related technologies.*</sup>
 
 ---
 
@@ -60,6 +56,9 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Most Used Languages">
+</div>
+show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Most Used Languages">
 </div>
 
