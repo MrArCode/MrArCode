@@ -45,6 +45,22 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </div>
 
+## 📝 O mnie
+
+Jestem doświadczonym Java & Kotlin Developerem z pasją do tworzenia wydajnych i skalowalnych aplikacji backendowych. Moje doświadczenie obejmuje pracę nad różnymi projektami, od aplikacji webowych po złożone systemy przetwarzania danych. Cenię sobie czysty kod, dobre praktyki programistyczne i ciągłe doskonalenie swoich umiejętności.
+
+## 🚀 Projekty i Doświadczenie
+
+### [Projekt 1](https://github.com/MrArCode/Projekt1)
+
+- **Opis**: Krótki opis projektu, nad którym pracowałeś.
+- **Technologie**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+### [Projekt 2](https://github.com/MrArCode/Projekt2)
+
+- **Opis**: Krótki opis innego ważnego projektu.
+- **Technologie**: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ## 📊 Statystyki GitHub
 
 <div align="center">
@@ -52,13 +68,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrArCode&theme=radical" alt="GitHub Streak"/>
 </div>
 
-## 🧩 Programowanie Konkurencyjne & Wyzwania
-
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/MrArCode?theme=light&font=baloo&extension=null" alt="LeetCode Stats"/>
-</div>
-
-## 📫 Kontakt
+## 📫 Social Media i Kontakt
 
 <div align="center">
   <a href="mailto:youremail@example.com">
@@ -71,29 +81,8 @@
 
 ## ⚡ Ciekawostka
 
-I’m fascinated by creating efficient workflows, both in programming and daily life. Whether it's learning a new automation tool or discovering shortcuts, I enjoy finding ways to make tasks more seamless and enjoyable.
+Uwielbiam optymalizować procesy zarówno w programowaniu, jak i w życiu codziennym. Odkrywanie nowych narzędzi automatyzujących i skrótów, które ułatwiają pracę, sprawia mi ogromną satysfakcję.
 
-## 📚 Nauka & Rozwój
-
-### 📘 Przeczytane Książki
-
-- **"Clean Code"** by Robert C. Martin  
-  <sup>*An insightful guide to writing cleaner, more maintainable code.*</sup>
-
-- **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
-  <sup>*A roadmap for becoming a better programmer and effective problem solver.*</sup>
-
-### 📜 Ukończone Kursy
-
-- **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
-  <sup>*A foundational course covering fundamental concepts in computer science.*</sup>
-
-- **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
-  <sup>*An introductory course on machine learning algorithms and practical applications.*</sup>
-
-### 🎥 Obejrzałe Tutoriale i Wideo
-
-- **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
-  <sup>*A comprehensive video series covering essential computer science topics.*</sup>
+---
 
 > **Developed by MrArCode** | License: MIT License
