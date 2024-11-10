@@ -2,7 +2,9 @@
   <img src="https://github.com/MrArCode/MrArCode/blob/main/github-header-image.png" alt="MrArCode: Java & Kotlin Developer" width="100%">
 </div>
 
-
+<p align="center">
+  Hello! I'm <strong>MrArCode</strong>, a Java & Kotlin Developer with a strong passion for backend development and software scalability. I enjoy exploring new technologies and consistently strive to improve my skills.
+</p>
 
 ---
 
