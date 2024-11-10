@@ -111,14 +111,11 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 ## 📊 Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; padding-top: 10px;">
-  <div style="flex: 1; max-width: 48%; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 100%;"/>
-  </div>
-  <div style="flex: 1; max-width: 48%; padding: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrArCode&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 100%;"/>
-  </div>
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 45%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrArCode&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 45%;"/>
 </div>
+
 
 
 
