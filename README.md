@@ -127,7 +127,7 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 ## 📫 Social Media & Contact
 
-<div align="center" style="width: 100%; font-size: 1.5em;">
+<div align="left" style="width: 100%; font-size: 1.5em;">
   <a href="mailto:mr.arcode@example.com" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="Email" width="40" height="40"/>
   </a>
