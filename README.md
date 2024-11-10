@@ -136,13 +136,6 @@ With a strong focus on backend development, I’m driven by a passion for unders
   </a>
 </div>
 
-
-
-
-## ⚡ Fun Fact
-
-I enjoy finding efficient workflows in coding and daily life. Discovering new automation tools and shortcuts that streamline my work brings me great satisfaction.
-
 ---
 
 > **Developed by MrArCode** | License: MIT License
