@@ -2,7 +2,7 @@
   <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode.png" alt="MrArCode: Java & Kotlin Developer" width="100%">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; background-color: #333;">
+<div align="center" style="width: 100%;">
     <h1 style="color: white; font-size: 2.5em; font-weight: bold; margin: 0;">
         MrArCode - Java & Kotlin Developer
     </h1>
