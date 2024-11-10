@@ -121,14 +121,6 @@ With a strong focus on backend development, I’m driven by a passion for unders
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrArCode&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 100%;"/>
       </td>
     </tr>
-    <tr>
-      <td style="width: 50%; padding: 10px;" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;"/>
-      </td>
-      <td style="width: 50%; padding: 10px;" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrArCode&theme=tokyo-night" alt="Activity Graph" style="width: 100%;"/>
-      </td>
-    </tr>
   </table>
 </div>
 
