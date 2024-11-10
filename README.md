@@ -1,7 +1,7 @@
 <h1 align="center">MrArCode - Java & Kotlin Developer</h1>
 
 <p align="center" style="font-size: 18px;">
-  I’m passionate about Java, with Kotlin as my go-to language for powerful, modern development. Let’s build something impactful together—I'm open to new and challenging projects!
+  I’m passionate about Java, with Kotlin as my go-to language for powerful, modern development. I thrive on challenges, and promoting innovative solutions is my passion. Let’s build something impactful together—I'm open to new and challenging projects!
 </p>
 
 ## 🧰 Tech Stack & Skills
