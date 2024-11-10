@@ -8,7 +8,8 @@
 
 ## 🧰 Tech Stack & Skills
 
-<div align="center" style="width: 100%;">
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode.png" alt="MrArCode: Java & Kotlin Developer" style="max-width: 80%;"/>
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
