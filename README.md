@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/profile-header.png" alt="🌟 Your Name: Passionate Developer and Lifelong Learner" width="60%">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/Rysunek%20bez%20nazwy.png" alt="Tech Stack & Skills" width="60%">
 </div>
+
 
 <p align="center">
   Hello! I'm a <strong>[Your Profession or Role]</strong> with a strong passion for <strong>[Your Interests, e.g., web development, machine learning, etc.]</strong>. I enjoy exploring new technologies and consistently strive to improve my skills.
