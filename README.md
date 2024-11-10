@@ -111,18 +111,16 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 ## 📊 Stats
 
-<details>
-  <summary><h2 style="display: inline-block">📈 GitHub & LeetCode Stats</h2></summary>
-  <div align="center" style="width: 100%; padding-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="margin-bottom: 10px;"/>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrArCode&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="margin-bottom: 10px;"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin-bottom: 10px;"/>
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrArCode&theme=tokyo-night" alt="Activity Graph"/>
-  </div>
-</details>
+<div align="center" style="width: 100%; padding-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="margin-bottom: 10px;"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrArCode&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="margin-bottom: 10px;"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin-bottom: 10px;"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrArCode&theme=tokyo-night" alt="Activity Graph"/>
+</div>
+
 
 
 ## 📫 Social Media & Contact
