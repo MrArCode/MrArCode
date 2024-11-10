@@ -8,41 +8,39 @@ Hello! I'm a **[Your Profession or Role]** with a strong passion for **[Your Int
 
 <div align="center">
   <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
   <!-- Version Control & Collaboration -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
   <!-- Database Technologies -->
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" title="Oracle SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/cassandra.png" alt="Cassandra" title="Cassandra"/>
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="JDBC" title="JDBC"/>
+  ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+  ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=database&logoColor=white)
 
   <!-- Web Development & Frameworks -->
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring"/>
-  <img src="https://img.icons8.com/color/48/000000/jsoup.png" alt="Jsoup" title="Jsoup"/>
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java Net" title="Java Net"/>
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Jsoup](https://img.shields.io/badge/Jsoup-4285F4?style=for-the-badge&logo=java&logoColor=white)
+  ![Java Net](https://img.shields.io/badge/Java_Net-5382A1?style=for-the-badge&logo=java&logoColor=white)
 
   <!-- DevOps & Cloud -->
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
   <!-- Testing & Automation -->
-  <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" title="Selenium"/>
-  <img src="https://img.icons8.com/color/48/000000/junit5.png" alt="JUnit" title="JUnit"/>
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
   <!-- IDEs -->
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 </div>
 
-
+---
 
 ## ⚡ Fun Fact
 
