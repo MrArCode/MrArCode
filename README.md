@@ -2,6 +2,12 @@
   <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode.png" alt="MrArCode: Java & Kotlin Developer" width="100%">
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; height: 200px; background-color: #333;">
+    <h1 style="color: white; font-size: 2.5em; font-weight: bold; margin: 0;">
+        MrArCode - Java & Kotlin Developer
+    </h1>
+</div>
+
 <p align="center" style="width: 100%;">
   Hello! I’m <strong>MrArCode</strong>, a passionate Java & Kotlin Developer dedicated to crafting efficient, scalable backend solutions. My journey in software development has been driven by curiosity for new technologies and a love for problem-solving. I'm highly interested in scalable web applications, database optimization, and automation. When I'm not coding, I explore innovative tools and frameworks to continuously expand my skill set.
 </p>
