@@ -10,7 +10,6 @@ Hello! I'm a **[Your Profession or Role]** with a strong passion for **[Your Int
   <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
   
   <!-- Build Tools -->
   <img src="https://img.icons8.com/color/48/000000/apache-maven.png" alt="Maven" title="Maven"/>
@@ -18,8 +17,6 @@ Hello! I'm a **[Your Profession or Role]** with a strong passion for **[Your Int
 
   <!-- Version Control & Collaboration -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" title="GitLab"/>
 
   <!-- Database Technologies -->
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" title="Oracle SQL"/>
