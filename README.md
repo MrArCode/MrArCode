@@ -6,75 +6,44 @@ Hello! I'm a **[Your Profession or Role]** with a strong passion for **[Your Int
 
 ## 🛠️ Tech Stack & Skills
 
----
-
-### 🖥️ Programming Languages
 <div align="center">
+  <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
-</div>
-
----
-
-### 🛠️ Build Tools
-<div align="center">
+  
+  <!-- Build Tools -->
   <img src="https://img.icons8.com/color/48/000000/apache-maven.png" alt="Maven" title="Maven"/>
   <img src="https://img.icons8.com/color/48/000000/gradle.png" alt="Gradle" title="Gradle"/>
-</div>
 
----
-
-### 📚 Version Control & Collaboration
-<div align="center">
+  <!-- Version Control & Collaboration -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" title="GitLab"/>
-</div>
 
----
-
-### 🗄️ Database Technologies
-<div align="center">
+  <!-- Database Technologies -->
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" title="Oracle SQL"/>
   <img src="https://img.icons8.com/color/48/000000/cassandra.png" alt="Cassandra" title="Cassandra"/>
   <img src="https://img.icons8.com/color/48/000000/database.png" alt="JDBC" title="JDBC"/>
-</div>
 
----
-
-### 🌐 Web Development & Frameworks
-<div align="center">
+  <!-- Web Development & Frameworks -->
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring"/>
   <img src="https://img.icons8.com/color/48/000000/jsoup.png" alt="Jsoup" title="Jsoup"/>
   <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java Net" title="Java Net"/>
-</div>
 
----
-
-### ☁️ DevOps & Cloud
-<div align="center">
+  <!-- DevOps & Cloud -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
-</div>
 
----
-
-### 🧪 Testing & Automation
-<div align="center">
+  <!-- Testing & Automation -->
   <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" title="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/junit5.png" alt="JUnit" title="JUnit"/>
-</div>
 
----
-
-### 🔧 IDEs
-<div align="center">
+  <!-- IDEs -->
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
 </div>
 
----
 
 ## ⚡ Fun Fact
 
