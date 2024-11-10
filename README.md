@@ -87,6 +87,27 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 > Developed by **MrArCode** | License: MIT License
 
+### [🛒 Price Comparison Tool](https://github.com/MrArCode/PriceComparisonTool)
+
+- **Description**: A Java-based application designed to streamline price comparisons by scraping product information from multiple online stores. This tool retrieves product names and prices, groups similar items based on spelling, and highlights the best deals for users by identifying the lowest prices.
+
+- **Key Features**:
+  - **Web Scraping and Caching**: Uses Jsoup and Playwright to collect and cache product data, ensuring faster comparisons.
+  - **Price Comparison**: Identifies the lowest prices among listed items across stores.
+  - **Product Grouping**: Groups similar items based on spelling, ensuring accurate comparisons.
+
+- **Technologies**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white), ![Jsoup](https://img.shields.io/badge/Jsoup-4285F4?style=flat-square&logo=java&logoColor=white), ![Playwright](https://img.shields.io/badge/Playwright-2D8CFF?style=flat-square&logo=playwright&logoColor=white), ![Lombok](https://img.shields.io/badge/Lombok-007ACC?style=flat-square&logo=lombok&logoColor=white)
+
+- **Supported Stores**:
+  - [Biedronka](https://zakupy.biedronka.pl/), [Kaufland](https://sklep.kaufland.pl/), [Delio](https://delio.com.pl/), [Lisek](https://sklep.lisek.app/), [Frisco](https://www.frisco.pl/), [Auchan](https://zakupy.auchan.pl/)
+
+- **Important Notes**:
+  - **Website Structure Changes**: Changes in website layout may require updates to the scraping selectors.
+  - **Kaufland Updates**: The Kaufland link may need manual updates to remain accurate with weekly offers.
+
+> Developed by **MrArCode** | License: MIT License
+
+
 
 ## 📊 Stats
 
