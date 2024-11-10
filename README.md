@@ -63,7 +63,6 @@
 
 I’m fascinated by creating efficient workflows, both in programming and daily life. Whether it's learning a new automation tool or discovering shortcuts, I enjoy finding ways to make tasks more seamless and enjoyable.
 
----
 
 ## 📚 Learning & Development
 
