@@ -1,7 +1,9 @@
 <h1 align="center">MrArCode - Java & Kotlin Developer</h1>
 
 <p align="center" style="font-size: 18px;">
-  Hello! I’m <strong>MrArCode</strong>, a passionate Java & Kotlin Developer dedicated to crafting efficient, scalable backend solutions. My journey in software development has been driven by curiosity for new technologies and a love for problem-solving. I'm highly interested in scalable web applications, database optimization, and automation. When I'm not coding, I explore innovative tools and frameworks to continuously expand my skill set.
+Hello! I’m MrArCode, a dedicated Java & Kotlin Developer with a deep passion for backend development. I thrive on exploring how different systems work, from programming languages to databases and APIs, and I enjoy diving into the mechanics that drive technology forward. I’m particularly interested in creating scalable, high-performance applications and optimizing backend systems. 
+I'm also fascinated by artificial intelligence and its potential, and I regularly experiment with new tools and frameworks to expand my understanding and stay at the forefront of tech innovation. Let’s connect and create something impactful together!
+
 </p>
 
 ## 🧰 Tech Stack & Skills
