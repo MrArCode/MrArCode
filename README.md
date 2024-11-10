@@ -1,7 +1,7 @@
-# 🚀 [Your Name]: Passionate Developer and Lifelong Learner
+# 🌟 [Your Name]: Passionate Developer and Lifelong Learner
 
 <p align="center">
-  Hi there! 👋 I'm a <strong>[Your Profession or Role]</strong> with a strong passion for <strong>[Your Interests, e.g., web development, machine learning, etc.]</strong>. I enjoy exploring new technologies and consistently strive to improve my skills.
+  Hello! I'm a <strong>[Your Profession or Role]</strong> with a strong passion for <strong>[Your Interests, e.g., web development, machine learning, etc.]</strong>. I enjoy exploring new technologies and consistently strive to improve my skills.
 </p>
 
 ---
@@ -9,64 +9,77 @@
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+  <!-- Build Tools -->
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+
+  <!-- Version Control & Collaboration -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+
+  <!-- Database Technologies -->
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=database&logoColor=white" alt="JDBC"/>
+
+  <!-- Web Development & Frameworks -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Jsoup-4285F4?style=for-the-badge&logo=java&logoColor=white" alt="Jsoup"/>
+  <img src="https://img.shields.io/badge/Java_Net-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="Java Net"/>
+
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
+  <!-- Testing & Automation -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+
+  <!-- IDEs -->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
 </div>
 
 ---
 
-## 💼 Projects
+## ⚡ Fun Fact
 
-<details>
-  <summary>Click to expand</summary>
-
-  ### [Project Name 1](https://github.com/YourUsername/Project1)
-  - **Description**: [Brief description of what the project does and its impact.]
-  - **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-  ### [Project Name 2](https://github.com/YourUsername/Project2)
-  - **Description**: [Brief description of what the project does and its impact.]
-  - **Technologies**: ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-</details>
+*Did you know? I [add an interesting fact or hobby here] that makes me stand out!*
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Learning & Development
 
-<details>
-  <summary>Click to view my GitHub stats</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </div>
-</details>
+### 📘 Books I’ve Read
 
----
+- **"Clean Code"** by Robert C. Martin  
+  <sup>*An insightful guide to writing cleaner, more maintainable code.*</sup>
 
-## 🌐 Social Media & Contact
+- **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
+  <sup>*A roadmap for becoming a better programmer and effective problem solver.*</sup>
 
-<div align="center">
-  <a href="https://linkedin.com/in/YourUsername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+### 📜 Courses Completed
 
----
+- **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
+  <sup>*A foundational course covering fundamental concepts in computer science.*</sup>
 
-## 🏆 Fun Fact & Achievements
+- **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
+  <sup>*An introductory course on machine learning algorithms and practical applications.*</sup>
 
-- 🌱 I'm currently learning **[specific technology or skill]**
-- 🥇 Achieved **[notable achievement, e.g., winning hackathons or certifications]**
-- 📚 Books I recommend: **"Clean Code" by Robert C. Martin**
+### 🎥 Tutorials & Videos Watched
+
+- **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
+  <sup>*A comprehensive video series covering essential computer science topics.*</sup>
+
+- **[Python Programming Tutorials](https://www.youtube.com/user/schafer5)** by Corey Schafer  
+  <sup>*In-depth tutorials on Python and related technologies.*</sup>
 
 ---
 
-> Developed by **[Your Name]** | License: MIT
+> **Developed by [Your Name]** | License: MIT License
