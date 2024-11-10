@@ -2,13 +2,9 @@
   <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode.png" alt="MrArCode: Java & Kotlin Developer" width="80%">
 </div>
 
----
-
 <p align="center">
   Hello! I’m <strong>MrArCode</strong>, a passionate Java & Kotlin Developer focused on crafting efficient, scalable backend solutions. My journey in software development has been driven by curiosity about new technologies and a love for problem-solving. I'm highly interested in building scalable web applications, optimizing databases, and automating workflows. When I'm not coding, I explore innovative tools and frameworks to continuously expand my skills. Let's build something great together!
 </p>
-
----
 
 ## 🧰 Tech Stack & Skills
 
@@ -49,41 +45,55 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </div>
 
----
+## 📊 Statystyki GitHub
 
-## 🧩 Competitive Programming & Challenges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrArCode&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## 🧩 Programowanie Konkurencyjne & Wyzwania
 
 <div align="center">
   <img src="https://leetcode.card.workers.dev/MrArCode?theme=light&font=baloo&extension=null" alt="LeetCode Stats"/>
 </div>
 
----
+## 📫 Kontakt
 
-## ⚡ Fun Fact
+<div align="center">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+## ⚡ Ciekawostka
 
 I’m fascinated by creating efficient workflows, both in programming and daily life. Whether it's learning a new automation tool or discovering shortcuts, I enjoy finding ways to make tasks more seamless and enjoyable.
 
+## 📚 Nauka & Rozwój
 
-## 📚 Learning & Development
+### 📘 Przeczytane Książki
 
-### 📘 Books I’ve Read
 - **"Clean Code"** by Robert C. Martin  
   <sup>*An insightful guide to writing cleaner, more maintainable code.*</sup>
 
 - **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
   <sup>*A roadmap for becoming a better programmer and effective problem solver.*</sup>
 
-### 📜 Courses Completed
+### 📜 Ukończone Kursy
+
 - **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
   <sup>*A foundational course covering fundamental concepts in computer science.*</sup>
 
 - **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
   <sup>*An introductory course on machine learning algorithms and practical applications.*</sup>
 
-### 🎥 Tutorials & Videos Watched
+### 🎥 Obejrzałe Tutoriale i Wideo
+
 - **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
   <sup>*A comprehensive video series covering essential computer science topics.*</sup>
-
----
 
 > **Developed by MrArCode** | License: MIT License
