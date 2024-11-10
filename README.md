@@ -8,7 +8,7 @@
 
 ## 🧰 Tech Stack & Skills
 
-<div style="display: flex; justify-content: center; width: 100%;">
+<div align="center" style="width: 100%;">
   
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
