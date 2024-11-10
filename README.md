@@ -113,9 +113,11 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
 
+<img src="https://leetcode.card.workers.dev/MrArCode?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" style="width: 45%; max-width: 500px; height: 100px; object-fit: cover;"/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 45%; max-width: 500px; height: 100px; object-fit: cover;"/>
   
-  <img src="https://leetcode.card.workers.dev/MrArCode?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" style="width: 45%; max-width: 500px; height: 100px; object-fit: cover;"/>
+  
 
 </div>
 
