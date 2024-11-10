@@ -47,7 +47,7 @@
 ## 📝 About Me
 
 <p align="center" style="font-size: 18px;">
-Hello! I’m MrArCode, a Java & Kotlin Developer with a strong focus on backend development. I’m passionate about understanding how various systems operate, from programming languages to databases and APIs, and enjoy exploring the mechanics that push technology forward. I specialize in building scalable, high-performance applications and optimizing backend systems. With a keen interest in artificial intelligence, I frequently experiment with new tools and frameworks to stay at the cutting edge of tech innovation. Let’s connect and build something impactful together!
+With a strong focus on backend development, I’m driven by a passion for understanding how various systems operate—from programming languages to databases and APIs. I specialize in creating scalable, high-performance applications and optimizing backend systems. Deeply interested in artificial intelligence, I regularly experiment with new tools and frameworks to stay at the forefront of tech innovation. Let’s build something impactful together!
 
 </p>
 
