@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Hello! I'm <strong>MrArCode</strong>, a Java & Kotlin Developer with a strong passion for backend development and software scalability. I enjoy exploring new technologies and consistently strive to improve my skills.
+  Hello! I’m MrArCode, a passionate Java & Kotlin Developer dedicated to crafting efficient and scalable backend solutions. My journey in software development has been fueled by a curiosity for new technologies and a love for problem-solving. I'm deeply interested in areas like scalable web applications, database optimization, and automation. When I’m not coding, I enjoy exploring innovative tools and frameworks to continuously expand my skill set. Let's build something great together!
 </p>
 
 ---
