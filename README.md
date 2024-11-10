@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/MrArCode/MrArCode/blob/main/Rysunek%20bez%20nazwy.png" alt="Tech Stack & Skills" width="60%">
-</div>
-
-
+# 🌟 [Your Name]: Passionate Developer and Lifelong Learner
 
 <p align="center">
   Hello! I'm a <strong>[Your Profession or Role]</strong> with a strong passion for <strong>[Your Interests, e.g., web development, machine learning, etc.]</strong>. I enjoy exploring new technologies and consistently strive to improve my skills.
@@ -10,9 +6,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/tech-stack-header.png" alt="🛠️ Tech Stack & Skills" width="60%">
-</div>
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
   <!-- Programming Languages -->
@@ -54,19 +48,13 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/fun-fact-header.png" alt="⚡ Fun Fact" width="60%">
-</div>
+## ⚡ Fun Fact
 
-<p align="center">
-  *Did you know? I [add an interesting fact or hobby here] that makes me stand out!*
-</p>
+*Did you know? I [add an interesting fact or hobby here] that makes me stand out!*
 
 ---
 
-<div align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/headers/learning-development-header.png" alt="📚 Learning & Development" width="60%">
-</div>
+## 📚 Learning & Development
 
 ### 📘 Books I’ve Read
 
@@ -76,8 +64,6 @@
 - **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
   <sup>*A roadmap for becoming a better programmer and effective problem solver.*</sup>
 
----
-
 ### 📜 Courses Completed
 
 - **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
@@ -85,8 +71,6 @@
 
 - **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
   <sup>*An introductory course on machine learning algorithms and practical applications.*</sup>
-
----
 
 ### 🎥 Tutorials & Videos Watched
 
