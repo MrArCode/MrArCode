@@ -113,10 +113,10 @@ With a strong focus on backend development, I’m driven by a passion for unders
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400px"/>
       </td>
       <td align="center">
-        <img src="https://leetcode-stats.vercel.app/api?username=YourLeetCodeUsername&theme=dark" alt="LeetCode Stats" width="400px"/>
+        <img src="https://leetcode-stats.vercel.app/api?username=user8911lE&theme=dark" alt="LeetCode Stats" width="400px"/>
       </td>
     </tr>
   </table>
