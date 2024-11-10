@@ -4,50 +4,74 @@ Hello! I'm a **[Your Profession or Role]** with a strong passion for **[Your Int
 
 ---
 
-🛠️ Tech Stack & Skills
-🖥️ Programming Languages
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/> </div>
-🛠️ Build Tools
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/apache-maven.png" alt="Maven" title="Maven"/> <img src="https://img.icons8.com/color/48/000000/gradle.png" alt="Gradle" title="Gradle"/> </div>
-📚 Version Control & Collaboration
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" title="GitLab"/> </div>
-🗄️ Database Technologies
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" title="Oracle SQL"/> <img src="https://img.icons8.com/color/48/000000/cassandra.png" alt="Cassandra" title="Cassandra"/> <img src="https://img.icons8.com/color/48/000000/database.png" alt="JDBC" title="JDBC"/> </div>
-🌐 Web Development & Frameworks
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring"/> <img src="https://img.icons8.com/color/48/000000/jsoup.png" alt="Jsoup" title="Jsoup"/> <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java Net" title="Java Net"/> </div>
-☁️ DevOps & Cloud
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/> </div>
-🧪 Testing & Automation
-<div align="center"> <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" title="Selenium"/> <img src="https://img.icons8.com/color/48/000000/junit5.png" alt="JUnit" title="JUnit"/> </div>
-🔧 IDEs
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio"/> </div>
+## 🛠️ Tech Stack & Skills
 
 ---
 
-## 📊 GitHub Stats
-
+### 🖥️ Programming Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
 </div>
 
 ---
 
-## 📫 Get in Touch
-
+### 🛠️ Build Tools
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email" title="Email"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" title="Twitter"/></a>
+  <img src="https://img.icons8.com/color/48/000000/apache-maven.png" alt="Maven" title="Maven"/>
+  <img src="https://img.icons8.com/color/48/000000/gradle.png" alt="Gradle" title="Gradle"/>
 </div>
 
 ---
 
-## 💬 Languages
-
+### 📚 Version Control & Collaboration
 <div align="center">
-  <img src="https://img.shields.io/badge/-English-007ACC?style=for-the-badge" alt="English">
-  <img src="https://img.shields.io/badge/-Polish-DC143C?style=for-the-badge" alt="Polish">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" title="GitLab"/>
+</div>
+
+---
+
+### 🗄️ Database Technologies
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" title="Oracle SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/cassandra.png" alt="Cassandra" title="Cassandra"/>
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="JDBC" title="JDBC"/>
+</div>
+
+---
+
+### 🌐 Web Development & Frameworks
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring"/>
+  <img src="https://img.icons8.com/color/48/000000/jsoup.png" alt="Jsoup" title="Jsoup"/>
+  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java Net" title="Java Net"/>
+</div>
+
+---
+
+### ☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
+</div>
+
+---
+
+### 🧪 Testing & Automation
+<div align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" title="Selenium"/>
+  <img src="https://img.icons8.com/color/48/000000/junit5.png" alt="JUnit" title="JUnit"/>
+</div>
+
+---
+
+### 🔧 IDEs
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
 </div>
 
 ---
