@@ -138,27 +138,26 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 ## 📚 My Learning Journey
 
-### 📘 Books I’ve Completed
+### 📘 Books
 - **"Clean Code"** by Robert C. Martin  
-  *Enhanced my understanding of writing clean, maintainable code.*
+  *Insightful guide on writing clean, maintainable code.*
 
 - **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
-  *Guided my approach to problem-solving and effective programming practices.*
+  *Roadmap for effective problem-solving and programming practices.*
 
-### 📜 Courses I’ve Taken
+### 📜 Courses
 - **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
-  *Gave me a solid foundation in core computer science principles.*
+  *Covers core computer science principles.*
 
 - **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
-  *Introduced me to essential machine learning algorithms and applications.*
+  *Foundational course on essential machine learning algorithms.*
 
-### 🎥 Videos & Tutorials I’ve Watched
+### 🎥 Videos & Tutorials
 - **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
-  *Provided a broad overview of key topics in computer science.*
+  *Comprehensive series on key computer science topics.*
 
 - **[Python Programming Tutorials](https://www.youtube.com/user/schafer5)** by Corey Schafer  
-  *Deepened my practical knowledge of Python and its ecosystem.*
+  *In-depth tutorials on Python and related technologies.*
 
-> **This journey reflects my commitment to continually expanding my skills and knowledge in programming.**
 
 
