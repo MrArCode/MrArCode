@@ -15,18 +15,25 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 ## 🛠️ Skills
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"></td>
-      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript"></td>
-      <td><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React"></td>
-      <td><img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django"></td>
-      <td><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"></td>
-    </tr>
-  </table>
+  
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+
+  <!-- Frameworks and Libraries -->
+  <h3>Frameworks and Libraries</h3>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring">
+
+  <!-- Tools and Platforms -->
+  <h3>Tools and Platforms</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+
 </div>
 
 ---
