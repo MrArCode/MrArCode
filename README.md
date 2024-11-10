@@ -45,6 +45,15 @@
 
 ---
 
+  ### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+---
+
 ## ⚡ Fun Fact
 
 *Did you know? I [add an interesting fact or hobby here] that makes me stand out!*
