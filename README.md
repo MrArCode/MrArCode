@@ -1,7 +1,9 @@
-# 🌟 [Your Name]: Passionate Developer and Lifelong Learner
+<div align="center">
+  <img src="https://github.com/MrArCode/MrArCode/blob/main/path_to_your_header_image.png" alt="MrArCode: Java & Kotlin Developer" width="60%">
+</div>
 
 <p align="center">
-  Hello! I'm a <strong>[Your Profession or Role]</strong> with a strong passion for <strong>[Your Interests, e.g., web development, machine learning, etc.]</strong>. I enjoy exploring new technologies and consistently strive to improve my skills.
+  Hello! I'm <strong>MrArCode</strong>, a Java & Kotlin Developer with a strong passion for backend development and software scalability. I enjoy exploring new technologies and consistently strive to improve my skills.
 </p>
 
 ---
@@ -11,8 +13,8 @@
 <div align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
   <!-- Build Tools -->
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
@@ -21,17 +23,13 @@
   <!-- Version Control & Collaboration -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 
   <!-- Database Technologies -->
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
-  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=database&logoColor=white" alt="JDBC"/>
 
   <!-- Web Development & Frameworks -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Jsoup-4285F4?style=for-the-badge&logo=java&logoColor=white" alt="Jsoup"/>
-  <img src="https://img.shields.io/badge/Java_Net-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="Java Net"/>
 
   <!-- DevOps & Cloud -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -43,7 +41,6 @@
 
   <!-- IDEs -->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
 </div>
 
 ---
@@ -77,9 +74,6 @@
 - **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
   <sup>*A comprehensive video series covering essential computer science topics.*</sup>
 
-- **[Python Programming Tutorials](https://www.youtube.com/user/schafer5)** by Corey Schafer  
-  <sup>*In-depth tutorials on Python and related technologies.*</sup>
-
 ---
 
-> **Developed by [Your Name]** | License: MIT License
+> **Developed by MrArCode** | License: MIT License
