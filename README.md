@@ -53,10 +53,22 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 ## 🚀 Projects & Experience
 
-### [Project 1](https://github.com/MrArCode/Project1)
+### [SQLForge](https://github.com/MrArCode/SQLForge)
 
-- **Description**: Brief project description.
-- **Technologies**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+- **Description**: SQLForge is a Java-based tool designed to automate SQL script generation for database operations. It supports core **CRUD** operations (Create, Read, Update, Delete) and uses the **Faker** library to generate realistic test data, making it ideal for database testing and data manipulation.
+  
+- **Features**:
+  - Generates `CREATE TABLE`, `INSERT`, `SELECT`, `UPDATE`, and `DELETE` SQL statements.
+  - Supports the definition of primary/foreign keys, unique constraints, and data types.
+  - Provides automated test data generation using **Faker**.
+
+- **Technologies**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white), ![Faker](https://img.shields.io/badge/Faker-6DB33F?style=flat-square&logo=java&logoColor=white)
+
+- **Core Methods**:
+  - **ScriptBuilder**: `addTable`, `includeCreate`, `includeInsert`, `includeRead`, `includeUpdate`, `includeDelete`, `withDataGenerator`.
+  - **Table and Column Management**: `addColumn`, `setPrimaryKey`, `setNotNull`, `setUnique`, `setForeignKey`.
+
+> Developed by **MrArCode** | License: MIT License
 
 ### [Project 2](https://github.com/MrArCode/Project2)
 
