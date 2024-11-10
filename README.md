@@ -1,10 +1,10 @@
-# 💻 [Your Name]: Passionate Developer and Lifelong Learner
+# 🌟 [Your Name]: Passionate Developer and Lifelong Learner
 
-I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e.g., web development, machine learning, etc.]**. I enjoy exploring new technologies and continuously improving my skills.
+Hello! I'm a **[Your Profession or Role]** with a strong passion for **[Your Interests, e.g., web development, machine learning, etc.]**. I enjoy exploring new technologies and consistently strive to improve my skills.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
@@ -28,31 +28,35 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Get in Touch
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email" title="Email"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" title="Twitter"/></a>
+</div>
 
 ---
 
 ## 💬 Languages
 
-- ![English](https://img.shields.io/badge/-English-007ACC?style=flat)
-- ![Polish](https://img.shields.io/badge/-Polish-DC143C?style=flat)
+<div align="center">
+  <img src="https://img.shields.io/badge/-English-007ACC?style=for-the-badge" alt="English">
+  <img src="https://img.shields.io/badge/-Polish-DC143C?style=for-the-badge" alt="Polish">
+</div>
 
 ---
 
 ## ⚡ Fun Fact
 
-*Share something fun or interesting about yourself!*
+*Did you know? I [add an interesting fact or hobby here] that makes me stand out!*
 
 ---
 
-## 📚 Learning and Development
+## 📚 Learning & Development
 
-### Books I've Read
+### 📘 Books I’ve Read
 
 - **"Clean Code"** by Robert C. Martin  
   <sup>*An insightful guide to writing cleaner, more maintainable code.*</sup>
@@ -62,7 +66,7 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 
 ---
 
-### Courses I've Completed
+### 📜 Courses Completed
 
 - **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
   <sup>*A foundational course covering fundamental concepts in computer science.*</sup>
@@ -72,7 +76,7 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 
 ---
 
-### Videos and Tutorials I've Watched
+### 🎥 Tutorials & Videos Watched
 
 - **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
   <sup>*A comprehensive video series covering essential computer science topics.*</sup>
