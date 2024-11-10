@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode.png" alt="MrArCode: Java & Kotlin Developer" width="100%">
+  <img src="https://github.com/MrArCode/MrArCode/blob/main/MrArCode.png" alt="MrArCode: Java & Kotlin Developer" width="80%">
 </div>
 
+---
+
 <p align="center">
-  Hello! I’m MrArCode, a passionate Java & Kotlin Developer dedicated to crafting efficient and scalable backend solutions. My journey in software development has been fueled by a curiosity for new technologies and a love for problem-solving. I'm deeply interested in areas like scalable web applications, database optimization, and automation. When I’m not coding, I enjoy exploring innovative tools and frameworks to continuously expand my skill set. Let's build something great together!
+  Hello! I’m <strong>MrArCode</strong>, a passionate Java & Kotlin Developer focused on crafting efficient, scalable backend solutions. My journey in software development has been driven by curiosity about new technologies and a love for problem-solving. I'm highly interested in building scalable web applications, optimizing databases, and automating workflows. When I'm not coding, I explore innovative tools and frameworks to continuously expand my skills. Let's build something great together!
 </p>
 
 ---
@@ -22,7 +24,9 @@
 
   <!-- Version Control & Collaboration -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+
   <!-- Database Technologies -->
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
@@ -47,25 +51,23 @@
 
 ---
 
-  ### Leetcode
-  <div align="center">
+## 🧩 Competitive Programming & Challenges
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
-
-  </div>
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/MrArCode?theme=light&font=baloo&extension=null" alt="LeetCode Stats"/>
+</div>
 
 ---
 
 ## ⚡ Fun Fact
 
-*Did you know? I [add an interesting fact or hobby here] that makes me stand out!*
+I’m fascinated by creating efficient workflows, both in programming and daily life. Whether it's learning a new automation tool or discovering shortcuts, I enjoy finding ways to make tasks more seamless and enjoyable.
 
 ---
 
 ## 📚 Learning & Development
 
 ### 📘 Books I’ve Read
-
 - **"Clean Code"** by Robert C. Martin  
   <sup>*An insightful guide to writing cleaner, more maintainable code.*</sup>
 
@@ -73,7 +75,6 @@
   <sup>*A roadmap for becoming a better programmer and effective problem solver.*</sup>
 
 ### 📜 Courses Completed
-
 - **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
   <sup>*A foundational course covering fundamental concepts in computer science.*</sup>
 
@@ -81,7 +82,6 @@
   <sup>*An introductory course on machine learning algorithms and practical applications.*</sup>
 
 ### 🎥 Tutorials & Videos Watched
-
 - **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
   <sup>*A comprehensive video series covering essential computer science topics.*</sup>
 
