@@ -14,18 +14,20 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 
 ## 🛠️ Skills
 
-- **Programming Languages:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
-- **Frameworks and Libraries:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-  - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-
-- **Tools and Platforms:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"></td>
+      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript"></td>
+      <td><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React"></td>
+      <td><img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django"></td>
+      <td><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -54,6 +56,15 @@ I'm a **[Your Profession or Role]** with a keen interest in **[Your Interests, e
 
 - **[Python Programming Tutorials](https://www.youtube.com/user/schafer5)** by Corey Schafer  
   *In-depth tutorials on Python and related technologies.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Most Used Languages">
+</div>
 
 ---
 
