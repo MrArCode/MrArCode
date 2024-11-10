@@ -136,28 +136,29 @@ With a strong focus on backend development, I’m driven by a passion for unders
   </a>
 </div>
 
-## 📚 Recommended Learning & Resources
+## 📚 My Learning Journey
 
-### 📘 Books
+### 📘 Books I’ve Completed
 - **"Clean Code"** by Robert C. Martin  
-  *An insightful guide to writing cleaner, more maintainable code.*
+  *Enhanced my understanding of writing clean, maintainable code.*
 
 - **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
-  *A roadmap for becoming a better programmer and effective problem solver.*
+  *Guided my approach to problem-solving and effective programming practices.*
 
-### 📜 Courses Completed
+### 📜 Courses I’ve Taken
 - **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
-  *A foundational course covering fundamental concepts in computer science.*
+  *Gave me a solid foundation in core computer science principles.*
 
 - **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
-  *An introductory course on machine learning algorithms and practical applications.*
+  *Introduced me to essential machine learning algorithms and applications.*
 
-### 🎥 Recommended Videos & Tutorials
+### 🎥 Videos & Tutorials I’ve Watched
 - **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
-  *A comprehensive series covering essential computer science topics.*
+  *Provided a broad overview of key topics in computer science.*
 
 - **[Python Programming Tutorials](https://www.youtube.com/user/schafer5)** by Corey Schafer  
-  *In-depth tutorials on Python and related technologies.*
+  *Deepened my practical knowledge of Python and its ecosystem.*
 
-> **Feel free to explore these resources—they've been valuable in shaping my skills and knowledge in programming!**
+> **This journey reflects my commitment to continually expanding my skills and knowledge in programming.**
+
 
