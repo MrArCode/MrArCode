@@ -127,23 +127,30 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 ## 📫 Social Media & Contact
 
-<div align="center" style="width: 100%;">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<div align="center" style="font-size: 2em;">
+
+  <a href="mailto:mr.arcode@example.com" style="margin: 0 15px;">
+    <i class="fas fa-envelope" title="Email" style="color: #D14836;"></i>
   </a>
-  <a href="https://www.facebook.com/yourprofile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+
+  <a href="https://www.facebook.com/MrArCode" style="margin: 0 15px;">
+    <i class="fab fa-facebook" title="Facebook" style="color: #1877F2;"></i>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/mrarcode/" style="margin: 0 15px;">
+    <i class="fab fa-linkedin" title="LinkedIn" style="color: #0A66C2;"></i>
   </a>
-  <a href="https://m.me/yourprofile">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
+
+  <a href="https://m.me/MrArCode" style="margin: 0 15px;">
+    <i class="fab fa-facebook-messenger" title="Messenger" style="color: #00B2FF;"></i>
   </a>
-  <a href="https://www.instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+  <a href="https://www.instagram.com/mrarcode" style="margin: 0 15px;">
+    <i class="fab fa-instagram" title="Instagram" style="color: #E4405F;"></i>
   </a>
+
 </div>
+
 
 
 ## ⚡ Fun Fact
