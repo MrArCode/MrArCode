@@ -127,29 +127,24 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 ## 📫 Social Media & Contact
 
-<div align="center" style="font-size: 2em;">
-
+<div align="center" style="width: 100%; font-size: 1.5em;">
   <a href="mailto:mr.arcode@example.com" style="margin: 0 15px;">
-    <i class="fas fa-envelope" title="Email" style="color: #D14836;"></i>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="Email" width="40" height="40"/>
   </a>
-
   <a href="https://www.facebook.com/MrArCode" style="margin: 0 15px;">
-    <i class="fab fa-facebook" title="Facebook" style="color: #1877F2;"></i>
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" title="Facebook" width="40" height="40"/>
   </a>
-
   <a href="https://www.linkedin.com/in/mrarcode/" style="margin: 0 15px;">
-    <i class="fab fa-linkedin" title="LinkedIn" style="color: #0A66C2;"></i>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" width="40" height="40"/>
   </a>
-
   <a href="https://m.me/MrArCode" style="margin: 0 15px;">
-    <i class="fab fa-facebook-messenger" title="Messenger" style="color: #00B2FF;"></i>
+    <img src="https://img.icons8.com/color/48/000000/facebook-messenger.png" title="Messenger" width="40" height="40"/>
   </a>
-
   <a href="https://www.instagram.com/mrarcode" style="margin: 0 15px;">
-    <i class="fab fa-instagram" title="Instagram" style="color: #E4405F;"></i>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" title="Instagram" width="40" height="40"/>
   </a>
-
 </div>
+
 
 
 
