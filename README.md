@@ -142,22 +142,11 @@ With a strong focus on backend development, I’m driven by a passion for unders
 - **"Clean Code"** by Robert C. Martin  
   *Insightful guide on writing clean, maintainable code.*
 
-- **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas  
-  *Roadmap for effective problem-solving and programming practices.*
-
 ### 📜 Courses
-- **[CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)** by Harvard University (edX)  
-  *Covers core computer science principles.*
-
-- **[Machine Learning](https://www.coursera.org/learn/machine-learning)** by Andrew Ng (Coursera)  
-  *Foundational course on essential machine learning algorithms.*
 
 ### 🎥 Videos & Tutorials
-- **[Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)** by PBS Digital Studios  
-  *Comprehensive series on key computer science topics.*
-
-- **[Python Programming Tutorials](https://www.youtube.com/user/schafer5)** by Corey Schafer  
-  *In-depth tutorials on Python and related technologies.*
+- **[Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU&t=1027s)**  
+  *Beginner-friendly introduction to Kotlin programming.*
 
 
 
