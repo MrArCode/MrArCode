@@ -70,10 +70,23 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 > Developed by **MrArCode** | License: MIT License
 
-### [Project 2](https://github.com/MrArCode/Project2)
+### [Job Portal Aggregator and Auto-Apply System](https://github.com/MrArCode/JobPortalAggregator)
 
-- **Description**: Another significant project.
-- **Technologies**: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Description**: A Java-based tool that simplifies job applications by aggregating listings from multiple job portals and automating the submission process. This system collects job links, filters them, and automatically logs in to submit applications on behalf of the user.
+
+- **Key Features**:
+  - **Job Aggregation**: Collects job links from portals like Pracuj, Praca, and JustJoin.it.
+  - **Link Caching**: Caches job pages to avoid redundant scraping.
+  - **Automated Submission**: Uses Selenium to log in and apply to jobs automatically.
+
+- **Technologies**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white), ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- **Future Enhancements**:
+  - **Additional Job Portals**: Expand support to more platforms.
+  - **CAPTCHA Handling**: Enhance CAPTCHA bypass techniques for smoother automation.
+
+> Developed by **MrArCode** | License: MIT License
+
 
 ## 📊 Stats
 
