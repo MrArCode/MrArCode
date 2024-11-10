@@ -135,7 +135,3 @@ With a strong focus on backend development, I’m driven by a passion for unders
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" width="40" height="40"/>
   </a>
 </div>
-
----
-
-> **Developed by MrArCode** | License: MIT License
