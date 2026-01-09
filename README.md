@@ -117,18 +117,3 @@ With a strong focus on backend development, I’m driven by a passion for unders
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" width="40" height="40"/>
   </a>
 </div>
-
-## 📚 My Learning Journey
-
-### 📘 Books
-- **"Clean Code"** by Robert C. Martin  
-  *Insightful guide on writing clean, maintainable code.*
-
-### 📜 Courses
-
-### 🎥 Videos & Tutorials
-- **[Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU&t=1027s)**  
-  *Beginner-friendly introduction to Kotlin programming.*
-
-
-
