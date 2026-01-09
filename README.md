@@ -107,23 +107,6 @@ With a strong focus on backend development, I’m driven by a passion for unders
 
 > Developed by **MrArCode** | License: MIT License
 
-## 📊 Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MrArCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400px"/>
-      </td>
-      <td align="center">
-       <img src="https://leetcode-stats.vercel.app/api?username=MrArCode&theme=dark&extension=activity" alt="LeetCode Stats" width="400px"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 ## 📫 Social Media & Contact
 
 <div align="left" style="width: 100%; font-size: 1.5em;">
